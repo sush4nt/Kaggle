@@ -1,0 +1,4 @@
+Link to the data set: 
+
+1. https://www.kaggle.com/competitions/amex-default-prediction/data
+2. https://www.kaggle.com/datasets/raddar/amex-data-integer-dtypes-parquet-format?select=train.parquet
